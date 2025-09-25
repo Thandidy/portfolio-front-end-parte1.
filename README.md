@@ -10,9 +10,14 @@ Baixe o repositório e abra o arquivo index.html no navegador
 Recursos que utilizei:
 o HTML5 
 o CSS3 
+  o @Media para tema Claro e e Escuro
+  o @Media Query para certa responsividade
+  o @KeyFrames para animações interativas no próprio css
+ 
 o Google Fonts 
 o Flexbox 
 o Ícones Fonte Awesome
+
 
 
 Feito por Nathan Soares Alves
